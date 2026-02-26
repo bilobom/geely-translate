@@ -1,7 +1,7 @@
 # Outil APK Interactif
 
 Script principal: `apk_menu_fr.sh`  
-Auteur: **bilang**
+Auteur: **[bilang](https://www.tiktok.com/@bilang042)**
 
 Ce projet fournit un utilitaire Bash interactif (menu en francais) pour:
 
