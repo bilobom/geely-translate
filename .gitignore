@@ -1,0 +1,17 @@
+# Entrees APK (ne pas versionner les binaires volumineux)
+originalApk/*
+!originalApk/.gitkeep
+!originalApk/*.apk
+
+# Sorties de build/signature
+compiled/*
+!compiled/.gitkeep
+signed/*
+!signed/.gitkeep
+
+# Dossiers de travail decompiles
+decompiled/*
+!decompiled/.gitkeep
+
+# Fichiers temporaires
+*.tmp
